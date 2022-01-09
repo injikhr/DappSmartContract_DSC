@@ -1,3 +1,5 @@
+![blockchain_ssj2-1](https://user-images.githubusercontent.com/70872563/148679301-342b3f8e-02e1-4985-a7f3-edddca663dd5.jpg)
+
 ## DappSmartContract_DSC
 쌉게이 3명이서 대상까지 고고
 
